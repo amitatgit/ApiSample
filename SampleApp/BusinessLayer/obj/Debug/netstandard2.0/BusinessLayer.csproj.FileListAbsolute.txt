@@ -1,0 +1,11 @@
+D:\Users\akumar\source\repos\SampleApp\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+D:\Users\akumar\source\repos\SampleApp\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+D:\Users\akumar\source\repos\SampleApp\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+D:\Users\akumar\source\repos\SampleApp\BusinessLayer\bin\Debug\netstandard2.0\DBLayer.dll
+D:\Users\akumar\source\repos\SampleApp\BusinessLayer\bin\Debug\netstandard2.0\DBLayer.pdb
+D:\Users\akumar\source\repos\SampleApp\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+D:\Users\akumar\source\repos\SampleApp\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\Users\akumar\source\repos\SampleApp\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+D:\Users\akumar\source\repos\SampleApp\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CopyComplete
+D:\Users\akumar\source\repos\SampleApp\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+D:\Users\akumar\source\repos\SampleApp\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb

@@ -1,0 +1,8 @@
+D:\Users\akumar\source\repos\SampleApp\DBLayer\bin\Debug\netstandard2.0\DBLayer.deps.json
+D:\Users\akumar\source\repos\SampleApp\DBLayer\bin\Debug\netstandard2.0\DBLayer.dll
+D:\Users\akumar\source\repos\SampleApp\DBLayer\bin\Debug\netstandard2.0\DBLayer.pdb
+D:\Users\akumar\source\repos\SampleApp\DBLayer\obj\Debug\netstandard2.0\DBLayer.csprojAssemblyReference.cache
+D:\Users\akumar\source\repos\SampleApp\DBLayer\obj\Debug\netstandard2.0\DBLayer.AssemblyInfoInputs.cache
+D:\Users\akumar\source\repos\SampleApp\DBLayer\obj\Debug\netstandard2.0\DBLayer.AssemblyInfo.cs
+D:\Users\akumar\source\repos\SampleApp\DBLayer\obj\Debug\netstandard2.0\DBLayer.dll
+D:\Users\akumar\source\repos\SampleApp\DBLayer\obj\Debug\netstandard2.0\DBLayer.pdb
